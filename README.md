@@ -18,7 +18,7 @@ Hello everyone, I'm a student at State Islamic University of Bukittinggi and i'm
 
 ![Faturrahman GitHub stats](https://github-readme-stats.vercel.app/api?username=faturrahman04&show_icons=true&theme=shades-of-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faturrahman04&layout=compact)
 <!--
 **faturrahman04/faturrahman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
