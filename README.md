@@ -2,6 +2,8 @@
 
 ![](./img/github-header-image.png)
 
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9jZHB0Zjhucmx0dDhpNXRtYW9leTRyMDVkbDM4Z3J3aWVoM2xieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif)
+
 Hello everyone, I'm a student at State Islamic University of Bukittinggi and i'm a frontend developer
 
 #### Languages
